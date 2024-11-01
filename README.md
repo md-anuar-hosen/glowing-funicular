@@ -1,2 +1,4 @@
-# glowing-funicular
-Cybersecurity and data policy 2024-Blended
+
+# Logbook
+|   Date |  Used hours |  Subject(s)  |  output |
+| ------------- | ------------- | ------------- | ------------- |

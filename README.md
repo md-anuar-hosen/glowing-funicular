@@ -13,8 +13,8 @@
 | 14.11.24 | 1.30  | Cybersecurity and data privacy - Blended |recording on workshop done | 
 | 16.11.24 | 3h | Cybersecurity and data privacy - Blended(Portswigger) | SQL Injection lab: SQL injection vulnerability in where clause allowing retrieval of hidden data done | 
 | 16.11.24 | 2h  | Cybersecurity and data privacy - Blended(portswigger)|Lab:SQL injection vulnerability allowing login bypass done | 
-| 16.11.24 | 4h  | Cybersecurity and data privacy - Blended(portswigger)|Authentication lab:Username enumeration via different responses done | 
-| 16.11.24 |  3.30h | Cybersecurity and data privacy - Blended(portswigger)|Access control lab:Unprotected admid functionality  done | 
+| 16.11.24 | 3h  | Cybersecurity and data privacy - Blended(portswigger)|Authentication lab:Username enumeration via different responses done | 
+| 16.11.24 |  2.30h | Cybersecurity and data privacy - Blended(portswigger)|Access control lab:Unprotected admid functionality  done | 
 
 
 

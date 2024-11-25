@@ -15,6 +15,6 @@
 | 16.11.24 | 2h  | Cybersecurity and data privacy - Blended(portswigger)|Lab:SQL injection vulnerability allowing login bypass done | 
 | 16.11.24 | 3h  | Cybersecurity and data privacy - Blended(portswigger)|Authentication lab:Username enumeration via different responses done | 
 | 16.11.24 |  2.30h | Cybersecurity and data privacy - Blended(portswigger)|Access control lab:Unprotected admid functionality  done | 
-
+| 18.11.24 | 1.30h | Cybersecurity and data privacy - Blended | class lecture done |
 
 

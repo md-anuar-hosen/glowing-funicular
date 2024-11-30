@@ -16,5 +16,10 @@
 | 16.11.24 | 3h  | Cybersecurity and data privacy - Blended(portswigger)|Authentication lab:Username enumeration via different responses done | 
 | 16.11.24 |  2.30h | Cybersecurity and data privacy - Blended(portswigger)|Access control lab:Unprotected admid functionality  done | 
 | 18.11.24 | 1.30h | Cybersecurity and data privacy - Blended | class lecture done |
+| 21.11.24 | 30min | Cybersecurity and data privacy - Blended |  workshop  lecture done |
+| 25.11.24 | 1.20h | Cybersecurity and data privacy - Blended | class lecture done |
+| 26.11.24 | 1.30h | Cybersecurity and data privacy - Blended | workshop  lecture done |
+| 27.11.24 | 1.30h | Cybersecurity and data privacy - Blended |  studied booking system phase-1 |
+
 
 
